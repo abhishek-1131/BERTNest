@@ -1,4 +1,4 @@
-### Production grade, scalable LLM pipeline (Fine-tuned BERT for classification) comprising of:
+### A production-grade, scalable ML pipeline (Fine-tuned BERT for classification) comprising of:
 
 - Scalable ELT Pipeline (Airbyte, Airflow, dbt, Great Expectations, BigQuery)
 - EDA and Distributed Data PreProcessing (Ray Data)
